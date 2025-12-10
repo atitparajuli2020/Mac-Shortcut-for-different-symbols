@@ -2,7 +2,7 @@ This file provides short cut for writing different symbols to be written in math
 
 
 Mac keyboard alt+ (letters) symbol)
-Alt + W = ∑    Alt + R = ®    Alt + T = †    Alt + Y = ¥     Alt + I = ˆ    Alt + O = ø
+Alt + W = ∑        Alt + R = ®        Alt + T = †        Alt + Y = ¥         Alt + I = ˆ        Alt + O = ø
 
 Alt + P = π    Alt + S = ß    Alt + D = ∂
 Alt + F = ƒ
